@@ -26,8 +26,9 @@ In <a href="https://github.com/" target="_top">GitHub</a>, I set up my repositor
 <p>
 Once the repository was successfully cloned to my machine I opened Jupyter Notebook in the repository using the ``Jupyter Notebook`` command. This opens Jupyter Notebook as a local browser.
 <p>
-From here, I set up a new Jupyter Notebook titled *Programming for Data Analysis Project 2022.pynb* by clicking 'new' Python 3(ipykernel). 
+From here, I set up a new Jupyter Notebook titled *Programming for Data Analysis Project 2022.pynb* by clicking 'new' Python 3(ipykernel) and started work on my project. 
 
+Using the ``git add .``, ``git commit -m" "`` and ``git push`` commands in Cmdr, I have pushed up my updated work to GitHub as frequently as possible. 
 
 <br>
 
