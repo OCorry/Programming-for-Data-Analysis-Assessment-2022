@@ -14,8 +14,8 @@ The purpose of this project is to create a dataset by simulating a real-world ph
 ## Setup of Environment:
 ***
 For this project, I firstly had to set up the relevant programming environment by installing relevant packages to my machine: 
-- **Python (Anaconda)** - Installing the full Anaconda version of Python
-- **Jupyter Notebooks** -on which Python was run
+- **Python (Anaconda)** - Installing the full Anaconda version of Python as Anaconda has the libraries already installed 
+- **Jupyter Notebook** -platform on which Python is run
 - **Visual Studio (VS) Code** - for doing my README.md write up
 - **Cmdr** - to Navigate through directories and to open Jupyter notebook within the required Directory
     - As I am using a Windows machine, Cmdr is a more user friendly command line than the Windows Command Prompt 
@@ -28,9 +28,33 @@ Once the repository was successfully cloned to my machine I opened Jupyter Noteb
 <p>
 From here, I set up a new Jupyter Notebook titled *Programming for Data Analysis Project 2022.pynb* by clicking 'new' Python 3(ipykernel). 
 
+
 <br>
 
 ## References:
 ***
+
+All references used for this project are noted in my Notebook but references to note are: 
+
+- https://www.kaggle.com/datasets/harshsingh2209/medical-insurance-payout
+
+
+- https://pandas.pydata.org/docs/
+
+
+- https://numpy.org/doc/stable/
+
+
+- https://matplotlib.org/stable/index.html
+
+
+- https://scikit-learn.org/stable/
+
+
+- https://seaborn.pydata.org/
+
+
+- https://docs.scipy.org/doc/scipy/
+
 
 
